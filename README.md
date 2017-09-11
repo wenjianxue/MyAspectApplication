@@ -198,7 +198,4 @@ javaCompile.doLast {
 
 更多AspectJ的使用知识可以进行百度，这里就不一一叙述了。
 
-## **AspectJ的实现AOP的原理简析**
-
-
 
